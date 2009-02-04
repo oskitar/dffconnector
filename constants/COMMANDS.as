@@ -17,7 +17,11 @@ package dffconnector.constants {
 		
 				
 		public static const VIEW_GET		: String	=	"views.get";
-				
+		
+
+		public static const FILE_GET		: String	=	"file.get";
+		public static const FILE_NODE_GET	: String	=	"file.getNodeFiles";
+		
 		
 		public static const TAXONOMY_GETTREE	: String	=	"taxonomy.getTree";
 		public static const TAXONOMY_GETNODES	: String	=	"taxonomy.selectNodes";
